@@ -11,4 +11,7 @@ Getting Started
 * Dive into the source code, understand the thought process, and adapt the solutions to fit your coding style.
 
  Contributing
-* Contributions are welcome! If you have a better solution, an optimization, or want to add a problem that you find valuable for interview preparation, feel free to open a pull request. 
+* Contributions are welcome! If you have a better solution, an optimization, or want to add a problem that you find valuable for interview preparation, feel free to open a pull request.
+
+  License
+* This project is licensed under the MIT License - see the LICENSE file for details.
